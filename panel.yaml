@@ -1,0 +1,11 @@
+
+panel_name: HFE_screen
+species: homo_sapiens
+loci:
+  - locus_id: H63D
+    reference_fasta: refs/HFE_H63D.clean.fa
+    contig: HFE_H63D_hg38_chr6_26090750_26091252
+    rsid: rs1799945
+    local_pos: 202
+    expected_genotype: null
+

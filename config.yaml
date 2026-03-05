@@ -1,0 +1,6 @@
+
+ab1_dir: ab1/safe
+outdir: tracy_out
+panel: panel.yaml
+loci_subset: []
+sample_sheet: ""

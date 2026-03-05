@@ -1,0 +1,8 @@
+.DS_Store
+docker/
+envs/
+run.ps1
+run.sh
+.snakemake/
+*.fa
+*.ab1
