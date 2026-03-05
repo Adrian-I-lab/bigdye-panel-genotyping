@@ -5,7 +5,11 @@ Reproducible, config-driven pipeline for calling targeted Sanger (BigDye) varian
 
 ## Quick start (90 seconds)
 
-### Option B — Docker (Windows/macOS with Docker Desktop)
+### Docker set up (Windows/macOS with Docker Desktop)
+
+Docker can be found here
+https://hub.docker.com/repository/docker/adriani25/bigdye-panel/general
+
 1. Build the container (one-time):
    ```bash
    docker pull adriani25/bigdye-panel:0.1.0
