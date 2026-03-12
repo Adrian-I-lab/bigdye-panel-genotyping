@@ -1,0 +1,19 @@
+
+name: tracy-pipeline
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11.14
+  - pandas=3.0.0
+  - numpy=2.4.2
+  - cyvcf2=0.31.4
+  - openpyxl=3.1.5
+  - xlrd=2.0.2
+  - tracy=0.8.1
+  - bcftools
+  - htslib=1.22.1
+  - samtools=1.22.1
+  - click=8.3.1
+  - coloredlogs=15.0.1
+  - pip
